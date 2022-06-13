@@ -1,4 +1,4 @@
-# PROJECT_Underwriting_In_The_Credit_Industry
+# Credit Riak Analysis for XYZ Corp.
 Imarticus_Python_Project_Duration:FromJuly2020_To_Aug2020
 
 # Solving this problem will help you to gain a basic understanding of the credit industry and also how analytics and data science are applied in practice in the BFSI domain.
